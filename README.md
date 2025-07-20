@@ -29,8 +29,7 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohith1976&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css,php)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohith1976&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Issues,PullRequest,Repositories,Reviews)
+
 
 ---
 
