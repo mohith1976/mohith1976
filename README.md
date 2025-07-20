@@ -4,8 +4,11 @@ I'm Mohith Nakka, a Computer Science undergraduate (2027) passionate about build
 Currently, I’m focused on enhancing my skills in scalable system architecture and contributing to meaningful open-source projects. Always eager to learn, collaborate, and build impactful tech!  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith-nakka) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohith.nakka1976@gmail.com) 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith-nakka)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohith.nakka1976@gmail.com)
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
