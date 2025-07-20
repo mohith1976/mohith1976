@@ -7,7 +7,9 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith-nakka)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohith.nakka1976@gmail.com)
+<a href="mailto:mohith.nakka1976@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge">
+</a>
 
 
 # 💻 Tech Stack:
