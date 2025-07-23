@@ -30,15 +30,14 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohith1976&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css,php,scss&v=1)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohith1976&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css,php,scss&v=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohith1976&icon=0&color=0)](https://visitcount.itsvg.in)
