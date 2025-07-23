@@ -35,7 +35,9 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohith1976&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css,php,scss&v=1)
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohith1976&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 ---
