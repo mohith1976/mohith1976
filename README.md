@@ -37,13 +37,13 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800) <br/>
+# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com?user=mohith1976&theme=dark&hide_border=false&cache_seconds=1800) <br/>
+![](https://github-readme-stats.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800&v=1) <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css,php,scss&cache_seconds=1800)
+![](https://streak-stats.demolab.com?user=mohith1976&theme=dark&hide_border=false&cache_seconds=1800&v=1) <br/>
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css,php,scss&cache_seconds=1800&v=1)
 
 
 
