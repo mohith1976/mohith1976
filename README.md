@@ -1,6 +1,6 @@
-#   Me
-I'm Mohith Nakka, a Computer Science undergraduate (2027) passionate about building real-world software that scales. I love exploring backend development, cloud deployment, and system design. I’ve worked with Java, MERN stack, and AWS to develop full-stack applications, and I enjoy solving data structure and algorithm problems using Java on LeetCode.  
-<br><br>
+###  Hi👋 
+I'm Mohith Nakka, a Computer Science undergraduate (2027) passionate about building real-world software that scales. I’ve worked with Java, MERN stack, and AWS to develop full-stack applications, and I enjoy solving data structure and algorithm problems using Java on LeetCode.  
+<br>
 Currently, I’m focused on enhancing my skills in scalable system architecture and contributing to meaningful open-source projects. Always eager to learn, collaborate, and build impactful tech!  
 
 
@@ -29,24 +29,21 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mohith1976&theme=dark&hide_border=false) 
-<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8&hide=html,css,php,scss)
-
 
 
 [![](https://visitcount.itsvg.in/api?id=mohith1976&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith-nakka)
