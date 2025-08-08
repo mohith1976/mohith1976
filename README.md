@@ -6,7 +6,7 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logoColor=white) 
