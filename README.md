@@ -28,19 +28,13 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 
 
 
-### 📊 GitHub Stats:
-
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohith1976&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=html,css,php,scss,Hack,CMake,Swift)
-
-
-[![](https://visitcount.itsvg.in/api?id=mohith1976&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mohith1976&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1976&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&hide=html,css,php,scss,Hack,CMake,Swift)
 
 
 
