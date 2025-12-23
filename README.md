@@ -57,6 +57,8 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 
 ![](https://bushido-ivory.vercel.app/api/quotes/random/svg?theme=dark&width=800)
 
+
+
 ### 🌐 Socials:
 
 
