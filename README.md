@@ -50,7 +50,7 @@ Currently, I’m focused on enhancing my skills in scalable system architecture 
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohith1976&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![DevGrid Stats](https://api.digitaldevgrid.tech/stats/mohith1976?layout=wide&hide=activity)<br/>
+![DevGrid Stats](https://api.digitaldevgrid.tech/stats/mohith1976.svg?theme=dark)<br/>
 
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mohith1976&theme=dark&hide_border=false)<br/>
