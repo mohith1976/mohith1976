@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="72" fill="url(#bg2)" rx="6"/>
+  <line x1="0" y1="0.5" x2="900" y2="0.5" stroke="#ffffff" stroke-opacity="0.06" stroke-width="0.5"/>
+
+  <g font-family="'Courier New', monospace" font-size="10.5" fill="#ffffff" fill-opacity="0.5" letter-spacing="1">
+    <text x="48"  y="30">TypeScript</text>
+    <text x="163" y="30">React</text>
+    <text x="278" y="30">NestJS</text>
+    <text x="393" y="30">Node.js</text>
+    <text x="507" y="30">Python</text>
+    <text x="622" y="30">PostgreSQL</text>
+    <text x="737" y="30">Docker</text>
+  </g>
+
+  <line x1="48" y1="40" x2="852" y2="40" stroke="#ffffff" stroke-opacity="0.04" stroke-width="0.5"/>
+
+  <g font-family="'Courier New', monospace" font-size="10.5" fill="#ffffff" fill-opacity="0.30" letter-spacing="1">
+    <text x="138" y="58">MongoDB</text>
+    <text x="253" y="58">Redis</text>
+    <text x="368" y="58">Langchain</text>
+    <text x="483" y="58">Supabase</text>
+    <text x="597" y="58">AWS</text>
+    <text x="712" y="58">RAG</text>
+  </g>
+
+</svg>
