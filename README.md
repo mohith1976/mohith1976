@@ -16,7 +16,7 @@
 
 <div align="center">
 
-SDE Intern @ Bluconn AI &nbsp;·&nbsp; CS Undergrad '27 &nbsp;·&nbsp; Andhra Pradesh
+ Software Development Engineer &nbsp;·&nbsp; CS Undergrad '27 &nbsp;·&nbsp; Andhra Pradesh
 
 `Backend Systems · RAG pipelines · Data Structures · System Design · Automation`
 
@@ -24,7 +24,7 @@ SDE Intern @ Bluconn AI &nbsp;·&nbsp; CS Undergrad '27 &nbsp;·&nbsp; Andhra Pr
 
 <br/>
 
----
+
 
 <br/>
 
