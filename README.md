@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mohith1976/mohith1976/main/hero.svg" width="100%" alt="Mohith Nakka" />
 </div>
 
-<br/>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohith1976/mohith1976/main/stack.svg" width="100%" alt="Stack" />
@@ -10,7 +10,7 @@
 
 <br/>
 
----
+
 
 <br/>
 
