@@ -18,7 +18,7 @@
 
 SDE Intern @ Bluconn AI &nbsp;·&nbsp; CS Undergrad '27 &nbsp;·&nbsp; Andhra Pradesh
 
-`backend systems · RAG pipelines · data structures · system design · automation`
+`Backend Systems · RAG pipelines · Data Structures · System Design · Automation`
 
 </div>
 
